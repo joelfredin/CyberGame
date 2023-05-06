@@ -1,3 +1,1 @@
-!["ddds"][def]
-
-[def]: relative%20/images/GameStructure.jpeg?raw=true "TITLE"
+![EXAMPLE IMAGE](./images/GameStructure.jpeg)
